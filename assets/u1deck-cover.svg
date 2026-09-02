@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071522"/><stop offset="1" stop-color="#102d3a"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#164454" stroke-width="1" opacity=".45"/></pattern></defs>
+  <rect width="1280" height="720" rx="28" fill="url(#bg)"/><rect width="1280" height="720" rx="28" fill="url(#grid)"/>
+  <circle cx="1040" cy="150" r="190" fill="#27e0bd" opacity=".08"/><circle cx="1100" cy="590" r="250" fill="#42cfff" opacity=".07"/>
+  <text x="90" y="220" fill="#f5fbff" font-family="Arial,sans-serif" font-size="88" font-weight="700">U1Deck</text>
+  <text x="94" y="285" fill="#61efd0" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="4">SNAPMAKER U1 × STREAM DECK</text>
+  <text x="94" y="350" fill="#b9d8e2" font-family="Arial,sans-serif" font-size="28">Live monitoring for four independent toolheads</text>
+  <g transform="translate(790 155)"><rect width="350" height="390" rx="30" fill="#05090d" stroke="#42cfff" stroke-width="5"/><g fill="#132530" stroke="#2bd8ba" stroke-width="3"><rect x="35" y="35" width="125" height="125" rx="18"/><rect x="190" y="35" width="125" height="125" rx="18"/><rect x="35" y="190" width="125" height="125" rx="18"/><rect x="190" y="190" width="125" height="125" rx="18"/></g><g fill="#61efd0" font-family="Arial,sans-serif" text-anchor="middle"><text x="97" y="105" font-size="42" font-weight="700">T1</text><text x="252" y="105" font-size="42" font-weight="700">T2</text><text x="97" y="260" font-size="42" font-weight="700">T3</text><text x="252" y="260" font-size="42" font-weight="700">T4</text></g><circle cx="252" cy="97" r="50" fill="none" stroke="#fff" stroke-width="5" opacity=".9"/></g>
+  <text x="94" y="620" fill="#8caebb" font-family="Arial,sans-serif" font-size="24">A proposed, U1-validated operator interface built on a working prototype</text>
+</svg>
